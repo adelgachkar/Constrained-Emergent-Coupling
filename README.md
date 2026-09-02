@@ -23,10 +23,10 @@ $$
 
 ## 🔬 Core Theoretical Pillars
 
-*   **Topological Admissibility ($\mathcal{C}_{\mathrm{id}}$ and $\hat{\mathcal{C}}_{\mathrm{top}}$):** Enforces strict mathematical admissibility criteria on the substrate $\mathcal{S}$, eliminating non-physical ghost degrees of freedom.
+*   **Topological Admissibility** ($\mathcal{C}_{\mathrm{id}}$ and $\hat{\mathcal{C}}_{\mathrm{top}}$): Enforces strict mathematical admissibility criteria on the substrate $\mathcal{S}$, eliminating non-physical ghost degrees of freedom.
 *   **Pre-Friedmannian Projection:** Maps micro-configurations $(\mathcal{D}_{\mathcal{O}}, \mathcal{C})$ directly into macro-scale hydrodynamic observables $(\rho_{\mathrm{tot}}, p_{\mathrm{tot}}, H)$.
-*   **Lyapunov-Stable Interaction Vectors:** Implements non-perturbative energy-momentum exchange vectors $Q^\mu$ that satisfy dynamic closure and kinetic stability ($\mathrm{Re}(\lambda_i) \le 0$).
-*   **Audit & Identifiability Pipeline ($\mathcal{M}_0$):** Integrates Fisher Information Matrix (FIM) criteria and residual floor bounds ($\Delta\mathrm{BIC}$) for observational falsifiability.
+*   **Lyapunov-Stable Interaction Vectors:** Implements non-perturbative energy-momentum exchange vectors $Q^{\mu}$ that satisfy dynamic closure and kinetic stability ($\mathrm{Re}(\lambda_i) \le 0$).
+*   **Audit & Identifiability Pipeline** ($\mathcal{M}_0$): Integrates Fisher Information Matrix (FIM) criteria and residual floor bounds ($\Delta\mathrm{BIC}$) for observational falsifiability.
 
 ---
 
